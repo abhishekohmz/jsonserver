@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "aaa",
+      "url": "https://images.pexels.com/photos/1188083/pexels-photo-1188083.png?cs=srgb&dl=sea-dawn-nature-1188083.jpg&fm=jpg",
+      "embededlink": "https://www.youtube.com/embed/BANa4&t=78s"
+    },
+    {
+      "id": "2",
+      "caption": "bbb",
+      "url": "https://th.bing.com/th/id/R.7383028831604862ec47fefee3e8f43f?rik=JvqjDCfPocchLg&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f01%2fimages-of-nature-4.jpg&ehk=%2b1REJDS0cEPD0z2IP%2fddCyP9IgFz6xVpp8fyQr78SJ0%3d&risl=&pid=ImgRaw&r=0",
+      "embededlink": "https://www.youtube.com/embed/FlarM35vxA`"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "trailers",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "bbb",
+          "url": "https://th.bing.com/th/id/R.7383028831604862ec47fefee3e8f43f?rik=JvqjDCfPocchLg&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f01%2fimages-of-nature-4.jpg&ehk=%2b1REJDS0cEPD0z2IP%2fddCyP9IgFz6xVpp8fyQr78SJ0%3d&risl=&pid=ImgRaw&r=0",
+          "embededlink": "https://www.youtube.com/embed/FlarM35vxA`"
+        },
+        {
+          "id": "1",
+          "caption": "aaa",
+          "url": "https://images.pexels.com/photos/1188083/pexels-photo-1188083.png?cs=srgb&dl=sea-dawn-nature-1188083.jpg&fm=jpg",
+          "embededlink": "https://www.youtube.com/embed/BANa4&t=78s"
+        },
+        {
+          "id": "1",
+          "caption": "aaa",
+          "url": "https://images.pexels.com/photos/1188083/pexels-photo-1188083.png?cs=srgb&dl=sea-dawn-nature-1188083.jpg&fm=jpg",
+          "embededlink": "https://www.youtube.com/embed/BANa4&t=78s"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "CR7",
+      "allvideos": [
+        {
+          "id": "1",
+          "caption": "aaa",
+          "url": "https://images.pexels.com/photos/1188083/pexels-photo-1188083.png?cs=srgb&dl=sea-dawn-nature-1188083.jpg&fm=jpg",
+          "embededlink": "https://www.youtube.com/embed/BANa4&t=78s"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": []
+}
